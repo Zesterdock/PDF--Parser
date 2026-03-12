@@ -1,0 +1,7 @@
+catalog_output/
+bpl_catalog_output/
+catalog_output_new/
+input.pdf input2.pdf input3.pdf
+venv/
+__pycache__/
+*.pyc
